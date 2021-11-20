@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**thebug13/thebug13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hola mi nombre es Felipe Loaiza Castaño... , siempre listo y dispuesto para emprendimientos Nuevos sin ningun Costo ya que La experiencia es la mejor Escuela ¡ 
 
 - 👋 Hi, I’m @thebug13
 - 👀 Programador en Lua & JavaScript (Orientado en el desarollo de bots de discord)
