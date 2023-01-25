@@ -24,7 +24,7 @@
 
 ## 🔗 Follow me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](http://linktr.ee/felipe_loaiza)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://linktr.ee/felipe_loaiza)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-loaiza-casta%C3%B1o-114270258/)
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/felipe.loaizacastano.3)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/FelipeLoaiza_)
 [![instagram](https://img.shields.io/badge/instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fel_loiza13?igshid=NTA5ZTk1NTc=)
