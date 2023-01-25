@@ -2,7 +2,7 @@
 
 |   |   |
 | ------------ | ------------ |
-| - 🚀 Digital Entrepreneur <br>- 🤓 Geek <br>- 😎 Teacher as vocation <br>- 💻 MSc Software Engineering, just because | <a href="https://app.daily.dev/jorgeolarte"><img src="https://github.com/jorgeolarte/jorgeolarte/blob/main/devcard.svg" width="250" alt="Jorge Olarte's Dev Card"/></a> |
+| - 👋 Hi, I’m @thebug13 <br>- 👀 Programador en Lua & JavaScript (Orientado en el desarollo de bots de discord) <br>- 🌱 Siempre estoy disponible para realizar proyectos en la plataforma de MTA:SA <br>- 💞️ Puedes contactarme por mi discord TheBug#1738 (Estoy casi todo el dia conectado) <br>- 📫 Actualmente estoy trabajando Bots multifuncionales de Discord¡ | <a href="https://app.daily.dev/jorgeolarte"><img src="https://github.com/jorgeolarte/jorgeolarte/blob/main/devcard.svg" width="250" alt="Jorge Olarte's Dev Card"/></a> |
 
 ## 🛠 My Skills
 
