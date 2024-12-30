@@ -2,7 +2,7 @@
 
 |   |   |
 | ------------ | ------------ |
-| - 👋 Hi, I’m @thebug13 <br>- 👀 Programador en Lua & JavaScript (Orientado en el desarollo de bots de discord) <br>- 🌱 Siempre estoy disponible para realizar proyectos en la plataforma de MTA:SA <br>- 💞️ Puedes contactarme por mi discord TheBug#1738 (Estoy casi todo el dia conectado) <br>- 📫 Actualmente estoy trabajando Bots multifuncionales de Discord ¡ | <a href="https://app.daily.dev/thebug13"><img src="https://api.daily.dev/devcards/v2/AQARqwtCK5vLs7n1l56xf.png?r=3jx&type=default" width="356" alt="Felipe Loaiza Castaño's Dev Card"/></a> |
+| - 👋 Hi, I’m @thebug13 <br>- 👀 Programador en Lua & JavaScript (Orientado en el desarollo de bots de discord) <br>- 🌱 Siempre estoy disponible para realizar proyectos en la plataforma de MTA:SA <br>- 💞️ Puedes contactarme por mi discord TheBug#1738 (Estoy casi todo el dia conectado) <br>- 📫 Actualmente estoy trabajando Bots multifuncionales de Discord ¡ | <a href="https://app.daily.dev/thebug13"><img src="https://api.daily.dev/devcards/v2/AQARqwtCK5vLs7n1l56xf.png?type=default&r=xpz" width="356" alt="Felipe Loaiza Castaño's Dev Card"/></a> |
 
 ## 🛠 My Skills
 
